@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthi Ragothaman 😊</h1>
+<h1 align="center">Hi 👋, Arthi Ragothaman 😊</h1>
 <h3 align="center">I am learning 👩‍🎓 and exploring new challenges in Web development with DevHaus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthiragothaman&label=Profile%20views&color=0e75b6&style=flat" alt="arthiragothaman" /> </p>
