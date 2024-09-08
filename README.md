@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/en/" target="blank" rel="noreferrer">
-  <img src="https://worldvectorlogo.com/logo/java.svg" alt="corejava" width="40" height="40"/>
+  <img src="https://www.flaticon.com/free-icons/java-logo.svg" alt="corejava" width="40" height="40"/>
   </a>
 
   <a href="https://www.selenium.dev/" target="blank" rel="noreferrer">
