@@ -28,8 +28,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/en/" target="blank" rel="noreferrer">
-  <img src="https://www.flaticon.com/free-icons/java-logo.svg" alt="corejava" width="40" height="40"/>
+  <a href="https://www.java.com/" target="blank" rel="noreferrer">
+  <img src="https://www.flaticon.com/free-icons/java-logo.svg](https://www.flaticon.com/free-icon/java_226777?term=java+logo&page=1&position=1&origin=tag&related_id=226777" alt="java" width="40" height="40"/>
   </a>
 
   <a href="https://www.selenium.dev/" target="blank" rel="noreferrer">
