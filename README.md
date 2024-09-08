@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
-  <a href="https://www.selenium.dev/documentation/webdriver/" target="blank" rel="forever">
+  <a href="https://www.selenium.dev/documentation/webdriver/" target="blank" rel="noreferrer">
   <img src="[https://icons8.com/icons/set/selenium" alt=selenium width="40" height="40"/>
   </a>
   
