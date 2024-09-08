@@ -32,6 +32,7 @@
   <a href="https://www.selenium.dev/" target="blank" rel="noreferrer">
   <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/common/images/selenium_logo_large.png" alt="selenium" width="40" height="40"/>
   </a>
+
   
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
