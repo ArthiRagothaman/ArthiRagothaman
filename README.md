@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://www.selenium.dev/documentation/webdriver/" target="blank" rel="forever">
-  <img src="https://iconduck.com/icons/27926/selenium" alt=selenium width="40" height="40"/>
+  <img src="[https://icons8.com/icons/set/selenium" alt=selenium width="40" height="40"/>
   </a>
   
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
